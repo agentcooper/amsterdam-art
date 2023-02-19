@@ -2,7 +2,7 @@
 
 https://agentcooper.github.io/amsterdam-art/
 
-Historic paintings of Amsterdam on a map.
+Historical paintings of Amsterdam on a map.
 
 ## How to contribute
 
