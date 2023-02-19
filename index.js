@@ -16,12 +16,32 @@ const map = L.map("map", {
   zoom: 15,
 });
 
+var GitHubIcon = L.Control.extend({
+  options: {
+    position: "topright",
+  },
+
+  onAdd: () => {
+    const container = L.DomUtil.create(
+      "div",
+      "leaflet-control leaflet-control-layers leaflet-control-github-icon"
+    );
+    container.onclick = () => {
+      window.open("https://github.com/agentcooper/amsterdam-art#readme");
+    };
+    return container;
+  },
+});
+
 stamenWatercolor.addTo(map);
 
 const baseMaps = {
   "Stamen Watercolor": stamenWatercolor,
   OpenStreetMap: osm,
 };
+
+const gitHubIcon = new GitHubIcon();
+gitHubIcon.addTo(map);
 
 const layerControl = L.control.layers(baseMaps).addTo(map);
 
