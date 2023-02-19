@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base target="_top" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Amsterdam Art</title>
+
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="docs/images/favicon.ico"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+      crossorigin=""
+    ></script>
+
+    <script
+      type="text/javascript"
+      src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"
+    ></script>
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+      .leaflet-container {
+        height: 400px;
+        width: 600px;
+        max-width: 100%;
+        max-height: 100%;
+      }
+      .leaflet-marker-icon {
+        filter: hue-rotate(240deg);
+      }
+      .leaflet-popup-content {
+        margin: 13px 13px 13px 13px;
+      }
+    </style>
+
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+      #map {
+        height: 100%;
+        width: 100vw;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="index.js"></script>
+  </body>
+</html>

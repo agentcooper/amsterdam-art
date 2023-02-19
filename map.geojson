@@ -1,0 +1,418 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [4.894683734523037, 52.36988802833016],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Het Atheneum Illustre aan de Oudezijds Voorburgwal te Amsterdam",
+        "artist": "Cornelis Springer",
+        "date": "1879",
+        "image": {
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cornelis_Springer_%281817-1891%29%2C_Het_Atheneum_Illustre_aan_de_Oudezijds_Voorburgwal_te_Amsterdam%2C_1879%2C_Olieverf_op_doek.JPG/305px-Cornelis_Springer_%281817-1891%29%2C_Het_Atheneum_Illustre_aan_de_Oudezijds_Voorburgwal_te_Amsterdam%2C_1879%2C_Olieverf_op_doek.JPG",
+          "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cornelis_Springer_%281817-1891%29%2C_Het_Atheneum_Illustre_aan_de_Oudezijds_Voorburgwal_te_Amsterdam%2C_1879%2C_Olieverf_op_doek.JPG"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Cornelis_Springer_(1817-1891),_Het_Atheneum_Illustre_aan_de_Oudezijds_Voorburgwal_te_Amsterdam,_1879,_Olieverf_op_doek.JPG",
+        "streetView": "https://goo.gl/maps/YFinxyjLjZ7bS9bJ6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.900969862937927, 52.37284163869735],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Nieuwemarkt, Amsterdam, from the Geldersekade with the tower of the Zuiderkerk",
+        "artist": "Gerrit Berckheyde",
+        "date": "~1670",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:The_Nieuwemarkt,_Amsterdam,_from_the_Geldersekade_with_the_tower_of_the_Zuiderkerk_beyond-Gerrit_Adriaensz._Berckheyde_(Haarlem_1638-1698).jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:The_Nieuwemarkt,_Amsterdam,_from_the_Geldersekade_with_the_tower_of_the_Zuiderkerk_beyond-Gerrit_Adriaensz._Berckheyde_(Haarlem_1638-1698).jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:The_Nieuwemarkt,_Amsterdam,_from_the_Geldersekade_with_the_tower_of_the_Zuiderkerk_beyond-Gerrit_Adriaensz._Berckheyde_(Haarlem_1638-1698).jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.890552163124085, 52.37211292561833],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "View of the Nieuwezijds Voorburgwal with the Amsterdam City Hall",
+        "artist": "Gerrit Berckheyde",
+        "date": "1670",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Berckheyde_-_View_of_the_Nieuwezijds_Voorburgwal_with_the_Amsterdam_City_Hall.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Berckheyde_-_View_of_the_Nieuwezijds_Voorburgwal_with_the_Amsterdam_City_Hall.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Gerrit_Berckheyde_-_View_of_the_Nieuwezijds_Voorburgwal_with_the_Amsterdam_City_Hall.jpg",
+        "streetView": "https://goo.gl/maps/eH3tNPJvDE29R2k3A"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.897885322570802, 52.37330669873697],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "View of Oudezijds Voorburgwal with the Oude Kerk in Amsterdam",
+        "artist": "Jan van der Heyden",
+        "date": "1670",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Jan_van_der_Heyden,_View_of_Oudezijds_Voorburgwal_with_the_Oude_Kerk_in_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Jan_van_der_Heyden,_View_of_Oudezijds_Voorburgwal_with_the_Oude_Kerk_in_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Jan_van_der_Heyden,_View_of_Oudezijds_Voorburgwal_with_the_Oude_Kerk_in_Amsterdam.jpg",
+        "streetView": "https://goo.gl/maps/B5gPECjt8fSdDCwC9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.900696277618409, 52.372383124005175],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "De Sint-Antoniuswaag in Amsterdam",
+        "artist": "Isaac Ouwater",
+        "date": "1780",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Sint-Antoniuswaag_in_Amsterdam_Rijksmuseum_SK-A-306.jpeg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Sint-Antoniuswaag_in_Amsterdam_Rijksmuseum_SK-A-306.jpeg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:De_Sint-Antoniuswaag_in_Amsterdam_Rijksmuseum_SK-A-306.jpeg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.889205694198609, 52.36737190317477],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "View of the Singel with the Munttoren in Amsterdam",
+        "artist": "Isaac Ouwater",
+        "date": "1770",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Isaac_Ouwater_-_View_of_the_Singel_with_the_Munttoren_in_Amsterdam_-_WGA16789.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Isaac_Ouwater_-_View_of_the_Singel_with_the_Munttoren_in_Amsterdam_-_WGA16789.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Isaac_Ouwater_-_View_of_the_Singel_with_the_Munttoren_in_Amsterdam_-_WGA16789.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.893100261688233, 52.373057793972734],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "View of the Dam with the Town Hall",
+        "artist": "Gerrit Berckheyde",
+        "date": "1697",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Adriaensz._Berckheyde_-_Amsterdam_-_View_of_the_Dam_with_the_Town_Hall_-_WGA01924.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Adriaensz._Berckheyde_-_Amsterdam_-_View_of_the_Dam_with_the_Town_Hall_-_WGA01924.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Gerrit_Adriaensz._Berckheyde_-_Amsterdam_-_View_of_the_Dam_with_the_Town_Hall_-_WGA01924.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.885375499725342, 52.37438090320783],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "De Westerkerk aan de Keizersgracht, Amsterdam",
+        "artist": "Isaak Ouwater",
+        "date": "1778",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Westerkerk_aan_de_Keizersgracht,_Amsterdam_-_Isaak_Ouwater_1778_National_Gallery_of_Canada_(no._6749).jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Westerkerk_aan_de_Keizersgracht,_Amsterdam_-_Isaak_Ouwater_1778_National_Gallery_of_Canada_(no._6749).jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:De_Westerkerk_aan_de_Keizersgracht,_Amsterdam_-_Isaak_Ouwater_1778_National_Gallery_of_Canada_(no._6749).jpg",
+        "streetView": "https://goo.gl/maps/FgGFw9xKsxyb3uW59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.900052547454834, 52.37191805424067],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Nieuwmarkt in Amsterdam",
+        "artist": "Bartholomeus van der Helst",
+        "date": "1666",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Bartholomeus_van_der_Helst_-_The_Nieuwmarkt_in_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Bartholomeus_van_der_Helst_-_The_Nieuwmarkt_in_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Bartholomeus_van_der_Helst_-_The_Nieuwmarkt_in_Amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.898647069931031, 52.37387655436245],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Oude Kerk seen from the Oudezijds Voorburgwal, Amsterdam",
+        "artist": "Heinrich Hermanns",
+        "date": "",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Henrich_Hermanns_-_The_Oude_Kerk_seen_from_the_Oudezijds_Voorburgwal,_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Henrich_Hermanns_-_The_Oude_Kerk_seen_from_the_Oudezijds_Voorburgwal,_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Henrich_Hermanns_-_The_Oude_Kerk_seen_from_the_Oudezijds_Voorburgwal,_Amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.902563095092774, 52.367627390930785],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Moses and Aaron church in Amsterdam",
+        "artist": "J. Lamers",
+        "date": "1895",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Mozes-Aaron-Church-Amsterdam-1880.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Mozes-Aaron-Church-Amsterdam-1880.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Mozes-Aaron-Church-Amsterdam-1880.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.893888831138612, 52.37899510023441],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Vue d'Amsterdam",
+        "artist": "Pierre-Justin Ouvrié",
+        "date": "1853",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Pierre-Justin_Ouvrié_-_Vue_d%27Amsterdam_02.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Pierre-Justin_Ouvrié_-_Vue_d%27Amsterdam_02.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Pierre-Justin_Ouvrié_-_Vue_d%27Amsterdam_02.jpg",
+        "streetView": "https://goo.gl/maps/KPsuYM3JQYKQoHwu8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.897263050079347, 52.367922182659335],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Canal in Amsterdam",
+        "artist": "Claude Monet",
+        "date": "1874",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Monet_canal-in-amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Monet_canal-in-amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Monet_canal-in-amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.890562891960145, 52.37367677822731],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "De Nieuwe Kerk en het stadhuis op de Dam in Amsterdam",
+        "artist": "Isaac Ouwater",
+        "date": "1780",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Nieuwe_Kerk_en_het_stadhuis_op_de_Dam_in_Amsterdam_Rijksmuseum_SK-A-305.jpeg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_Nieuwe_Kerk_en_het_stadhuis_op_de_Dam_in_Amsterdam_Rijksmuseum_SK-A-305.jpeg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:De_Nieuwe_Kerk_en_het_stadhuis_op_de_Dam_in_Amsterdam_Rijksmuseum_SK-A-305.jpeg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.9031317234039316, 52.37714489460192],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Amsterdam mit Blick auf die Oude Kerk",
+        "artist": "Friedrich Kallmorgen",
+        "date": "1896",
+        "image": {
+          "full": "https://media.mutualart.com/Images/2022_11/29/06/061342370/d51d38ca-5cbe-483b-bb07-9f9b4c2569ff.Jpeg"
+        },
+        "url": "",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.907133579254151, 52.37211456318928],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Het scheepgaan van compagnietroepen bij de Montelbaanstoren",
+        "artist": "Abraham Storck",
+        "date": "1670",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:MK49519_Embarkation_of_Company_Tropps_at_the_Montelbaan_Tower_(1682).jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:MK49519_Embarkation_of_Company_Tropps_at_the_Montelbaan_Tower_(1682).jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:MK49519_Embarkation_of_Company_Tropps_at_the_Montelbaan_Tower_(1682).jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.893347024917603, 52.36682161683547],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "De Munttoren in Amsterdam gezien vanaf het Singel",
+        "artist": "Jan ten Compe",
+        "date": "1751",
+        "image": {
+          "thumbnail": "",
+          "full": "https://images.rkd.nl/rkd/thumb/650x650/339cb0e4-4f8a-d011-fe77-9e358bd2dd59.jpg"
+        },
+        "url": "https://rkd.nl/nl/explore/images/3619",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.888199865818025, 52.37220462949855],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "De Singelbrug bij de Paleisstraat te Amsterdam",
+        "artist": "George Hendrik Breitner",
+        "date": "1897",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_De_Singelbrug_bij_de_Paleisstraat_te_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_De_Singelbrug_bij_de_Paleisstraat_te_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:George_Hendrik_Breitner_-_De_Singelbrug_bij_de_Paleisstraat_te_Amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.89718794822693, 52.37613952912461],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Damrak in Amsterdam",
+        "artist": "George Hendrik Breitner",
+        "date": "1903",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Breitner,_Het_Damrak.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Breitner,_Het_Damrak.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Breitner,_Het_Damrak.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.900575578212738, 52.37516034009487],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Het Kolkje en de Oudezijds Achterburgwal in Amsterdam",
+        "artist": "George Hendrik Breitner",
+        "date": "between 1894 and 1898",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_Oudezijds_Achterburgwal,_Amsterdam_(Het_Kolkje).jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_Oudezijds_Achterburgwal,_Amsterdam_(Het_Kolkje).jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:George_Hendrik_Breitner_-_Oudezijds_Achterburgwal,_Amsterdam_(Het_Kolkje).jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.892274141311646, 52.37277286179698],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Gezicht op de Dam te Amsterdam",
+        "artist": "George Hendrik Breitner",
+        "date": "1895",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_Gezicht_op_de_Dam_te_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:George_Hendrik_Breitner_-_Gezicht_op_de_Dam_te_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:George_Hendrik_Breitner_-_Gezicht_op_de_Dam_te_Amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.891839623451234, 52.37278268707501],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Town Hall of Amsterdam",
+        "artist": "Gerrit Berckheyde",
+        "date": "1670",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Berckheyde_-_The_Town_Hall_of_Amsterdam_CAM_CCF_44.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Berckheyde_-_The_Town_Hall_of_Amsterdam_CAM_CCF_44.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Gerrit_Berckheyde_-_The_Town_Hall_of_Amsterdam_CAM_CCF_44.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.890316128730775, 52.366923158282844],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A view of the flower market in Amsterdam with the Munt Tower in the background",
+        "artist": "Heinrich Hermanns",
+        "date": "",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Heinrich_Hermanns,_Flowermarket_Amsterdam.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Heinrich_Hermanns,_Flowermarket_Amsterdam.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Heinrich_Hermanns,_Flowermarket_Amsterdam.jpg",
+        "streetView": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
