@@ -412,6 +412,42 @@
         "streetView": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.899585843086244, 52.36532467228721],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Herengracht met huis Willet Holthuijsen",
+        "artist": "Kaspar Karsen",
+        "date": "between 1825 and 1896",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_1613-Herengracht_met_huis_Willet_Holthuijsen.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_1613-Herengracht_met_huis_Willet_Holthuijsen.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:SA_1613-Herengracht_met_huis_Willet_Holthuijsen.jpg",
+        "streetView": "https://goo.gl/maps/vXVdwm6c9W5CEFus6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.904521107673646, 52.367152444563565],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Gezicht op de Houtmarkt",
+        "artist": "Hendrik Keun",
+        "date": "1760",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SB_6394-Gezicht_op_de_Houtmarkt-Gezicht_op_de_Grote_of_Hoogduitse_Synagoge.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SB_6394-Gezicht_op_de_Houtmarkt-Gezicht_op_de_Grote_of_Hoogduitse_Synagoge.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:SB_6394-Gezicht_op_de_Houtmarkt-Gezicht_op_de_Grote_of_Hoogduitse_Synagoge.jpg",
+        "streetView": "https://goo.gl/maps/2FzTDk4W4hvdB3SQ8"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
