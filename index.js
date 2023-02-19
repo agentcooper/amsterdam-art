@@ -1,3 +1,7 @@
+/**
+ * Add layers
+ */
+
 const stamenWatercolor = L.tileLayer(
   "https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg",
   {
@@ -45,6 +49,10 @@ gitHubIcon.addTo(map);
 
 const layerControl = L.control.layers(baseMaps).addTo(map);
 
+/**
+ * Fetch data
+ */
+
 const geoJsonPath = "map.geojson";
 fetch(geoJsonPath)
   .then((res) => res.json())
@@ -83,37 +91,67 @@ function forEachFeature(feature, layer) {
   });
 }
 
-function onMapClick(e) {
-  const wikimedia = prompt("Contribute a marker using Wikimedia URL");
+/**
+ * Contribution
+ */
 
-  const index = wikimedia.indexOf("File:");
-  if (index !== -1) {
-    const file = wikimedia.slice(index);
+function onContextMenu(e) {
+  const url = prompt(
+    "Contribution guide: https://github.com/agentcooper/amsterdam-art#how-to-contribute\n\nPaste a URL for the painting:"
+  );
 
-    const full = `https://commons.wikimedia.org/wiki/Special:FilePath/${file}`;
-    const thumbnail = `https://commons.wikimedia.org/wiki/Special:FilePath/${file}?width=300`;
-
-    const template = {
-      geometry: {
-        coordinates: [e.latlng.lng, e.latlng.lat],
-        type: "Point",
-      },
-      properties: {
-        title: "...",
-        artist: "...",
-        date: "...",
-        image: {
-          thumbnail: thumbnail,
-          full: full,
-        },
-        wikimedia: wikimedia,
-        streetView: "",
-      },
-      type: "Feature",
-    };
-
-    alert(JSON.stringify(template, null, 2));
-  }
+  alert(
+    `Send a pull request adding following JSON to map.geojson:\n\n${JSON.stringify(
+      fromTemplate(e, url),
+      null,
+      2
+    )}`
+  );
 }
 
-map.on("contextmenu", onMapClick);
+function fromTemplate(e, url) {
+  return {
+    geometry: {
+      coordinates: [e.latlng.lng, e.latlng.lat],
+      type: "Point",
+    },
+    properties: {
+      title: "",
+      artist: "",
+      date: "",
+      image: {
+        thumbnail: "",
+        full: "",
+        ...(getImage(url) ?? {}),
+      },
+      url,
+      streetView: "",
+    },
+    type: "Feature",
+  };
+}
+
+function getImage(url) {
+  if (!url.includes("wikimedia.org")) {
+    return undefined;
+  }
+
+  const fileIndex = url.indexOf("File:");
+  const isWikimediaUrl = fileIndex !== -1;
+
+  if (!isWikimediaUrl) {
+    return undefined;
+  }
+
+  const file = url.slice(fileIndex);
+
+  const full = `https://commons.wikimedia.org/wiki/Special:FilePath/${file}`;
+  const thumbnail = `https://commons.wikimedia.org/wiki/Special:FilePath/${file}?width=300`;
+
+  return {
+    thumbnail,
+    full,
+  };
+}
+
+map.on("contextmenu", onContextMenu);
