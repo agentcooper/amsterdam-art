@@ -448,6 +448,24 @@
         "streetView": "https://goo.gl/maps/2FzTDk4W4hvdB3SQ8"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.892756938934327, 52.377947205678865],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Het Singel met de Ronde Lutherse Kerk",
+        "artist": "Jacobus Storck",
+        "date": "between 1675 and 1695",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_21815-Het_Singel_met_de_Ronde_Lutherse_Kerk.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_21815-Het_Singel_met_de_Ronde_Lutherse_Kerk.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:SA_21815-Het_Singel_met_de_Ronde_Lutherse_Kerk.jpg",
+        "streetView": "https://goo.gl/maps/1Kq53F8aeNWhRjY97"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

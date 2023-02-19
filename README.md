@@ -17,5 +17,6 @@ If you find a painting that is not on the map:
 ## Sources
 
 1. [Category:Paintings of Amsterdam - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Paintings_of_Amsterdam)
-2. [RKD](<https://rkd.nl/en/explore/images#filters[plaats][]=Amsterdam%20(city)&filters[objectcategorie][]=painting&filters[genre][]=cityscape&start=0&v=map>)
-3. [Amsterdam in art | Europeana](https://www.europeana.eu/en/galleries/8896-amsterdam-in-art)
+2. [Category:Topographical paintings in the Amsterdam Museum - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Topographical_paintings_in_the_Amsterdam_Museum)
+3. [RKD](<https://rkd.nl/en/explore/images#filters[plaats][]=Amsterdam%20(city)&filters[objectcategorie][]=painting&filters[genre][]=cityscape&start=0&v=map>)
+4. [Amsterdam in art | Europeana](https://www.europeana.eu/en/galleries/8896-amsterdam-in-art)
