@@ -297,10 +297,10 @@
         "artist": "Jan ten Compe",
         "date": "1751",
         "image": {
-          "thumbnail": "",
-          "full": "https://images.rkd.nl/rkd/thumb/650x650/339cb0e4-4f8a-d011-fe77-9e358bd2dd59.jpg"
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_562-De_Munttoren_gezien_van_het_Singel.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:SA_562-De_Munttoren_gezien_van_het_Singel.jpg"
         },
-        "url": "https://rkd.nl/nl/explore/images/3619",
+        "url": "https://commons.wikimedia.org/wiki/File:SA_562-De_Munttoren_gezien_van_het_Singel.jpg",
         "streetView": ""
       },
       "type": "Feature"
