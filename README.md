@@ -25,4 +25,4 @@ If you find a painting that is not on the map:
 
 - [Maps Amsterdam](https://maps.amsterdam.nl/?LANG=en)
 - [Stadsarchief Amsterdam](https://archief.amsterdam/)
-- [Then & Now • Amsterdam (@thenandnowamsterdam)](https://www.instagram.com/thenandnowamsterdam/)
+- [Then & Now • Amsterdam](https://www.thenandnowamsterdam.com/)
