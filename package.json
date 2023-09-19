@@ -1,6 +1,10 @@
 {
   "scripts": {
     "dev": "python3 -m http.server 3000",
-    "start": "npm run dev"
+    "start": "npm run dev",
+    "format": "prettier --write map.geojson"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
   }
 }
