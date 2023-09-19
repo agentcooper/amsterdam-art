@@ -1,3 +1,4 @@
+name: Test update
 jobs:
   createPullRequest:
     runs-on: ubuntu-latest
