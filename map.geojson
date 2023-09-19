@@ -466,6 +466,23 @@
         "streetView": "https://goo.gl/maps/1Kq53F8aeNWhRjY97"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.894683734523037, 52.36988802833016],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "cool painting",
+        "artist": "",
+        "date": "",
+        "image": {
+          "thumbnail": "",
+          "full": ""
+        },
+        "url": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
