@@ -3,11 +3,14 @@
  */
 
 const stamenWatercolor = L.tileLayer(
-  "https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg",
+  "https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg",
   {
     maxZoom: 18,
-    attribution: `Tiles by <a href="http://stamen.com" target="_blank">Stamen Design</a>, data by <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a>.`,
-  }
+    attribution: `&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a>
+    &copy; <a href="https://www.stamen.com/" target="_blank">Stamen Design</a>
+    &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a>
+    &copy; <a href="https://www.openstreetmap.org/about/" target="_blank">OpenStreetMap contributors</a>`,
+  },
 );
 
 const osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -28,7 +31,7 @@ var GitHubIcon = L.Control.extend({
   onAdd: () => {
     const container = L.DomUtil.create(
       "div",
-      "leaflet-control leaflet-control-layers leaflet-control-github-icon"
+      "leaflet-control leaflet-control-layers leaflet-control-github-icon",
     );
     container.onclick = () => {
       window.open("https://github.com/agentcooper/amsterdam-art#readme");
@@ -97,15 +100,15 @@ function forEachFeature(feature, layer) {
 
 function onContextMenu(e) {
   const url = prompt(
-    "Contribution guide: https://github.com/agentcooper/amsterdam-art#how-to-contribute\n\nPaste a URL for the painting:"
+    "Contribution guide: https://github.com/agentcooper/amsterdam-art#how-to-contribute\n\nPaste a URL for the painting:",
   );
 
   alert(
     `Send a pull request adding following JSON to map.geojson:\n\n${JSON.stringify(
       fromTemplate(e, url),
       null,
-      2
-    )}`
+      2,
+    )}`,
   );
 }
 
