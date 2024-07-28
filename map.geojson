@@ -466,6 +466,41 @@
         "streetView": "https://goo.gl/maps/1Kq53F8aeNWhRjY97"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.890970705884484, 52.36785927136763],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Poort van het Rasphuis",
+        "artist": "Reinier Vinkeles",
+        "date": "between 1741 and 1816",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Rasphuis0.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Rasphuis0.jpg"
+        },
+        "url": "https://commons.wikimedia.org/wiki/File:Rasphuis0.jpg",
+        "streetView": "https://maps.app.goo.gl/KUMY9gerN76JERX7A"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.891364391211737, 52.370030787314164],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "The Bookshop and Lottery Agency of Jan de Groot in the Kalverstraat in Amsterdam",
+        "artist": "Isaac Ouwater",
+        "date": "1779",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_boekhandel_en_het_loterijkantoor_van_Jan_de_Groot_in_de_Kalverstraat_in_Amsterdam_Rijksmuseum_SK-A-4026.jpeg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:De_boekhandel_en_het_loterijkantoor_van_Jan_de_Groot_in_de_Kalverstraat_in_Amsterdam_Rijksmuseum_SK-A-4026.jpeg"
+        },
+        "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4026"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
