@@ -501,6 +501,41 @@
         "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4026"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.882605214000323, 52.35807055238245],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "International Colonial and Export Exhibition",
+        "artist": "Johan Conrad Greive",
+        "date": "1883",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:J.C._Greive_-_Internationale_koloniale_tentoonstelling.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:J.C._Greive_-_Internationale_koloniale_tentoonstelling.jpg"
+        },
+        "url": "https://en.wikipedia.org/wiki/International_Colonial_and_Export_Exhibition"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [4.889835984546934, 52.36870545319651],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Spui",
+        "artist": "Gerrit Lamberts",
+        "date": "1817",
+        "image": {
+          "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Lamberts_(1776-1850),_Afb_010097001590.jpg?width=300",
+          "full": "https://commons.wikimedia.org/wiki/Special:FilePath/File:Gerrit_Lamberts_(1776-1850),_Afb_010097001590.jpg"
+        },
+        "url": "https://en.wikipedia.org/wiki/Spui_(Amsterdam)#/media/File:Gerrit_Lamberts_(1776-1850),_Afb_010097001590.jpg",
+        "streetView": "https://maps.app.goo.gl/s6MvVr5AjW2e3hqJ8"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
